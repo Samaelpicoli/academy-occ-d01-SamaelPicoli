@@ -1,0 +1,22 @@
+{
+  "config": {},
+  "availableToAllPages": true,
+  "globalEnabled": false,
+  "i18nresources": "academy-occ-d01-SamaelPicoli",
+  "imports": [],
+  "javascript": "academy-occ-d01-SamaelPicoli",
+  "jsEditable": true,
+  "minWidth": 1,
+  "translations": [{
+      "language": "en",
+      "name": "academy-occ-d01-SamaelPicoli"
+    },
+    {
+      "language": "pt_BR",
+      "name": "academy-occ-d01-SamaelPicoli"
+    }
+  ],
+  "version": 1,
+  "widgetFamily": "academy-occ-d01-SamaelPicoli",
+  "widgetType": "academy-occ-d01-SamaelPicoli"
+}

@@ -1,0 +1,18 @@
+{
+  "createdBy": "Compasso",
+  "developerID": "samael.picoli",
+  "extensionID": "9e0921f3-fa25-4e3f-be3c-bb91b49f6684",
+  "translations": [{
+      "language": "en",
+      "name": "academy-occ-d01-SamaelPicoli",
+      "description": "Widget Example"
+    },
+    {
+      "language": "pt_BR",
+      "name": "academy-occ-d01-SamaelPicoli",
+      "description": "Widget exemplo"
+    }
+  ],
+  "timeCreated": "2021-03-03",
+  "version": 1
+}
